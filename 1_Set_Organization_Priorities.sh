@@ -84,8 +84,8 @@ OrgScore2_2_2="true"
 # OrgScore2_2_2="false"
 
 # 2.2.3 Restrict NTP server to loopback interface
-OrgScore2_2_3="true"
-# OrgScore2_2_3="false"
+#OrgScore2_2_3="true"
+OrgScore2_2_3="false"
 
 # 2.3.1 Set an inactivity interval of 20 minutes or less for the screen saver 
 OrgScore2_3_1="true"
@@ -140,12 +140,12 @@ OrgScore2_5_1="true"
 # OrgScore2_5_1="false"
 
 # 2.5.2 Disable sleeping the computer when connected to power 
-OrgScore2_5_2="true"
-# OrgScore2_5_2="false"
+# OrgScore2_5_2="true"
+ OrgScore2_5_2="false"
 
 # 2.6.1 Enable FileVault
-OrgScore2_6_1="true"
-# OrgScore2_6_1="false"
+#OrgScore2_6_1="true"
+OrgScore2_6_1="false"
 
 # 2.6.2 Enable Gatekeeper
 OrgScore2_6_2="true"
@@ -172,8 +172,8 @@ OrgScore2_7_5="true"
 # OrgScore2_7_5="false"
 
 # 2.8.1 Time Machine Auto-Backup
-OrgScore2_8_1="true"
-# OrgScore2_8_1="false"
+# OrgScore2_8_1="true"
+OrgScore2_8_1="false"
 
 # 2.9 Pair the remote control infrared receiver if enabled
 OrgScore2_9="true"
@@ -248,8 +248,8 @@ OrgScore5_1_4="true"
 # OrgScore5_1_4="false"
 
 # 5.3 Reduce the sudo timeout period
-OrgScore5_3="true"
-# OrgScore5_3="false"
+# OrgScore5_3="true"
+OrgScore5_3="false"
 
 # 5.4 Automatically lock the login keychain for inactivity
 OrgScore5_4="true"
@@ -264,8 +264,8 @@ OrgScore5_5="true"
 OrgScore5_6="false"
 
 # 5.7 Do not enable the "root" account
-OrgScore5_7="true"
-# OrgScore5_7="false"
+#OrgScore5_7="true"
+OrgScore5_7="false"
 
 # 5.8 Disable automatic login
 OrgScore5_8="true"
